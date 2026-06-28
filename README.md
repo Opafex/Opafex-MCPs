@@ -16,8 +16,8 @@ Open-source [Model Context Protocol](https://modelcontextprotocol.io/) servers b
 
 ```bash
 # Clone and install
-git clone https://github.com/opafex/Opafex-MCPs.git
-cd Opafex-MCPs
+git clone https://github.com/opafex/opafex-mcps.git
+cd opafex-mcps
 npm install
 npm run build
 
@@ -34,7 +34,7 @@ Create or edit `.mcp.json` in your project root:
   "mcpServers": {
     "enrichment": {
       "command": "node",
-      "args": ["/path/to/Opafex-MCPs/packages/enrichment/dist/index.js"],
+      "args": ["/path/to/opafex-mcps/packages/enrichment/dist/index.js"],
       "env": {
         "CLEARBIT_API_KEY": "sk-...",
         "HUNTER_API_KEY": "...",

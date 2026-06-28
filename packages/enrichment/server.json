@@ -3,7 +3,7 @@
   "name": "io.github.Opafex/mcp-enrichment",
   "description": "Multi-source entity enrichment: company data, contacts, email verification, and phone validation",
   "repository": {
-    "url": "https://github.com/opafex/Opafex-MCPs",
+    "url": "https://github.com/opafex/opafex-mcps",
     "source": "github",
     "subfolder": "packages/enrichment"
   },

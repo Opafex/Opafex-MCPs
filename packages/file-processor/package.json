@@ -43,12 +43,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/opafex/Opafex-MCPs.git",
+    "url": "https://github.com/opafex/opafex-mcps.git",
     "directory": "packages/file-processor"
   },
-  "homepage": "https://github.com/opafex/Opafex-MCPs/tree/main/packages/file-processor",
+  "homepage": "https://github.com/opafex/opafex-mcps/tree/main/packages/file-processor",
   "bugs": {
-    "url": "https://github.com/opafex/Opafex-MCPs/issues"
+    "url": "https://github.com/opafex/opafex-mcps/issues"
   },
   "author": "Opafex",
   "license": "MIT",

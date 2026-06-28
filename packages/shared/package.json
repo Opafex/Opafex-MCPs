@@ -20,12 +20,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/opafex/Opafex-MCPs.git",
+    "url": "https://github.com/opafex/opafex-mcps.git",
     "directory": "packages/shared"
   },
-  "homepage": "https://github.com/opafex/Opafex-MCPs/tree/main/packages/shared",
+  "homepage": "https://github.com/opafex/opafex-mcps/tree/main/packages/shared",
   "bugs": {
-    "url": "https://github.com/opafex/Opafex-MCPs/issues"
+    "url": "https://github.com/opafex/opafex-mcps/issues"
   },
   "author": "Opafex",
   "license": "MIT",

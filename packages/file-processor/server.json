@@ -3,7 +3,7 @@
   "name": "io.github.Opafex/mcp-file-processor",
   "description": "Text extraction, keyword extraction, language detection, and chunking for RAG",
   "repository": {
-    "url": "https://github.com/opafex/Opafex-MCPs",
+    "url": "https://github.com/opafex/opafex-mcps",
     "source": "github",
     "subfolder": "packages/file-processor"
   },

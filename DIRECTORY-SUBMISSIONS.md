@@ -19,7 +19,7 @@ This is the best fit — the section description reads "Provides access to custo
 ### Draft Entry
 
 ```markdown
-- [Opafex/Opafex-MCPs](https://github.com/opafex/Opafex-MCPs) 📇 ☁️ 🍎 🪟 🐧 - Multi-source entity enrichment — company data, contact lookup, email verification, phone validation, and email discovery via Clearbit, Hunter.io, and Twilio APIs. Mock mode and pluggable cache included.
+- [Opafex/opafex-mcps](https://github.com/opafex/opafex-mcps) 📇 ☁️ 🍎 🪟 🐧 - Multi-source entity enrichment — company data, contact lookup, email verification, phone validation, and email discovery via Clearbit, Hunter.io, and Twilio APIs. Mock mode and pluggable cache included.
 ```
 
 **Format notes:**
@@ -62,9 +62,9 @@ This is the best fit — the section description reads "Provides access to custo
      "name": "io.github.opafexstudios/enrichment",
      "description": "Multi-source entity enrichment — company data, contact lookup, email verification, phone validation, and email discovery via Clearbit, Hunter.io, and Twilio APIs.",
      "title": "Opafex Enrichment",
-     "websiteUrl": "https://github.com/opafex/Opafex-MCPs",
+     "websiteUrl": "https://github.com/opafex/opafex-mcps",
      "repository": {
-       "url": "https://github.com/opafex/Opafex-MCPs",
+       "url": "https://github.com/opafex/opafex-mcps",
        "source": "github",
        "subfolder": "packages/mcp-enrichment"
      },
@@ -120,7 +120,7 @@ This is the best fit — the section description reads "Provides access to custo
 If you still want a README entry, the format under "Third-Party Servers > Community Servers" would be:
 
 ```markdown
-- **[Opafex Enrichment](https://github.com/opafex/Opafex-MCPs)** - Multi-source entity enrichment — company data, contact lookup, email verification, phone validation, and email discovery via Clearbit, Hunter.io, and Twilio APIs.
+- **[Opafex Enrichment](https://github.com/opafex/opafex-mcps)** - Multi-source entity enrichment — company data, contact lookup, email verification, phone validation, and email discovery via Clearbit, Hunter.io, and Twilio APIs.
 ```
 
 However, since the list is deprecated, prefer the MCP Registry route above.
@@ -150,7 +150,7 @@ Publish to the MCP Registry first (section 2), then wait for automatic ingestion
 
 Based on typical directory requirements:
 - **Name:** @opafex/mcp-enrichment
-- **URL:** https://github.com/opafex/Opafex-MCPs
+- **URL:** https://github.com/opafex/opafex-mcps
 - **npm:** https://www.npmjs.com/package/@opafex/mcp-enrichment
 - **Description:** Multi-source entity enrichment — company data, contact lookup, email verification, phone validation, and email discovery via Clearbit, Hunter.io, and Twilio APIs. Mock mode, pluggable cache, 17.3 kB.
 - **Category:** Data Enrichment / Customer Data
@@ -169,7 +169,7 @@ Based on typical directory requirements:
 MCPlane has a streamlined submission form:
 
 1. Navigate to https://mcplane.com/mcp_servers/new
-2. Enter the **GitHub Repository URL**: `https://github.com/opafex/Opafex-MCPs`
+2. Enter the **GitHub Repository URL**: `https://github.com/opafex/opafex-mcps`
 3. Submit
 
 MCPlane auto-extracts metadata from the repository. No additional fields are visible on the public form.
